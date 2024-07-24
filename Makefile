@@ -5,7 +5,7 @@ CFLAGS = -Wall -O3
 INCLUDES = -Iinclude
 SRCDIR = src
 BUILD_DIR = build
-TARGET = mp3_rng_util
+TARGET = mp5_story_mode_capsule_space_predictor
 SOURCES = $(wildcard $(SRCDIR)/*.c)
 
 # Object files (generated in the "build" directory)
